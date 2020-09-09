@@ -1,3 +1,9 @@
+#satyam_svg{
+  color:white;
+}
+#satyam_svg:hover{
+  fill:white;
+}
 
 .iconn{
   width: 50%;
