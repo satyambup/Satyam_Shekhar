@@ -1,10 +1,6 @@
-#satyam_svg{
-  color:white;
+.logo-img path {
+  fill: #000;
 }
-#satyam_svg:hover{
-  fill:white;
-}
-
 .iconn{
   width: 50%;
 }
